@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #E9ECEF;
+
+}
+.jumbotron {
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
+
+li {
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
+
+.header {
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
